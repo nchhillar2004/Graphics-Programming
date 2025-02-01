@@ -1,0 +1,4 @@
+**/dependencies/** linguist-vendored=true
+**/Dependencies/** linguist-vendored=true
+**/vendor/** linguist-vendored=true
+**/vendors/** linguist-vendored=true
